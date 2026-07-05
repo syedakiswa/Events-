@@ -20,3 +20,12 @@ window.addEventListener('resize', (e)=>{
 // e.target - woh elements target kro jis par exactly event hua
 // e.target.textContent
 
+
+
+// e.preventdefault() - default action rok ta hay
+// form submit pe
+// page reload
+
+// e.clientx / y - mouse ki position screen par
+// e.client = 340 
+// pixels from left
